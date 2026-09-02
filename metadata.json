@@ -1,0 +1,6 @@
+{
+  "name": "DentalCare - Patient & Clinical Care Portal",
+  "description": "Comprehensive dental care portal featuring doctor clinical review & recommendation builder, patient dashboard, report upload, and clinic administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
